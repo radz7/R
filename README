@@ -1,0 +1,26 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+<script type="text/javascript">
+window.fbAsyncInit = function() {
+FB.Canvas.setSize({ width: 520, height: auto }); // Live in the past
+}
+// Do things that will sometimes call sizeChangeCallback()
+function sizeChangeCallback() {
+FB.Canvas.setSize({ width: 520, height: auto }); // Live in the past
+}
+</script>
+</head>
+<div> <!– float container –>
+
+<div style="clear:both;"></div>
+
+</div>
+
+<div style="background-color:#DEF3F2;">
+
+<center>
+<img src="http://i54.tinypic.com/292nq1g.jpg"/>
+</center>
+<center>
+<font face="Merlin"><font size="6"><font color="#000000">Welcome to Plenty of Fish In The Sea But I Only See You And Me.<font color="#ff1f1a"> </font>
+</center>
